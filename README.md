@@ -44,6 +44,7 @@ TensorFlow.js (for PoseNet)
 
 A working webcam (for AI pose estimation)
 
+
 Steps to Run Locally
 
 Clone the repository:
@@ -76,55 +77,6 @@ Database Structure
 
 The application uses SQLite as the database, with the following table structure:
 
-ExerciseSession Table
-
-Column
-
-Type
-
-Description
-
-id
-
-Integer (PK)
-
-Unique session ID
-
-user_id
-
-String
-
-User's unique identifier
-
-exercise_type
-
-String
-
-Type of exercise (Yoga/Gym)
-
-exercise_id
-
-Integer
-
-ID of the performed exercise
-
-start_time
-
-DateTime
-
-Time when the session started
-
-duration
-
-Integer
-
-Duration in minutes
-
-date
-
-Date
-
-Date of exercise
 
 AI-Based Pose Estimation
 
@@ -182,21 +134,8 @@ Open the deployed app:
 
 heroku open
 
-Screenshots
 
-Home Page
-
-
-
-Yoga Exercise Page
-
-
-
-Live Pose Estimation
-
-
-
-Future Enhancements
+Future Enhancements:
 
 Integration with Wearable Devices (Fitbit, Apple Watch, etc.)
 
@@ -213,4 +152,4 @@ For any queries, contact: 9704204469
 
 Email: nrithwinreddy@gmail.com
 
-GitHub: Rithwin-09
+GitHub: Rithwin09
