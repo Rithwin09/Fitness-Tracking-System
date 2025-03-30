@@ -64,10 +64,6 @@ A working webcam (for AI pose estimation)
 
 Steps to Run Locally
 
-Clone the repository:
-
-git clone https://github.com/yourusername/fitness-tracking-system.git
-cd fitness-tracking-system
 
 Create a virtual environment:
 
