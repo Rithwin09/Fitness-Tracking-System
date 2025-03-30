@@ -62,36 +62,7 @@ TensorFlow.js (for PoseNet)
 A working webcam (for AI pose estimation)
 
 
-Steps to Run Locally
-
-
-Create a virtual environment:
-
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Set up the database:
-
-python -c "from app import db; db.create_all()"
-
-Run the application:
-
-python app.py
-
-Open your browser and go to:
-
-http://127.0.0.1:5000
-
-Database Structure
-
-The application uses SQLite as the database, with the following table structure:
-
-
-AI-Based Pose Estimation
+AI-Based Pose Estimation:
 
 The AI model used in this project is PoseNet, which detects human body keypoints and evaluates posture. It is integrated using TensorFlow.js to:
 
