@@ -2,11 +2,6 @@ Problem Statement:
 
 In today’s fast-paced world, many individuals struggle to achieve their fitness goals due to a lack of personalized guidance, structured workout plans, and expert coaching. Traditional fitness programs often fail to cater to individual needs, leading to low motivation, inconsistent progress, and ineffective training. Additionally, access to professional trainers and accurate fitness tracking is often expensive or inconvenient.
 
-Team Members:
-1)N.Rithwin Reddy
-2)M.Jeevan
-3)K.Lokesh
-4)T.Jithendra
 
 Demo Video:
 
